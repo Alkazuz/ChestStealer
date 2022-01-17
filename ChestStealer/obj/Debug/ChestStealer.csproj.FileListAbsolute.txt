@@ -1,0 +1,13 @@
+D:\Users\Admin\Documents\AB-Plugins\ChestStealer\ChestStealer\bin\Debug\ChestStealer.dll
+D:\Users\Admin\Documents\AB-Plugins\ChestStealer\ChestStealer\bin\Debug\ChestStealer.pdb
+D:\Users\Admin\Documents\AB-Plugins\ChestStealer\ChestStealer\bin\Debug\AdvancedBot.exe
+D:\Users\Admin\Documents\AB-Plugins\ChestStealer\ChestStealer\bin\Debug\Newtonsoft.Json.dll
+D:\Users\Admin\Documents\AB-Plugins\ChestStealer\ChestStealer\bin\Debug\AxInterop.WMPLib.dll
+D:\Users\Admin\Documents\AB-Plugins\ChestStealer\ChestStealer\bin\Debug\MaterialSkin.dll
+D:\Users\Admin\Documents\AB-Plugins\ChestStealer\ChestStealer\bin\Debug\Jint.dll
+D:\Users\Admin\Documents\AB-Plugins\ChestStealer\ChestStealer\bin\Debug\AdvancedBot.exe.config
+D:\Users\Admin\Documents\AB-Plugins\ChestStealer\ChestStealer\obj\Debug\ChestStealer.csprojAssemblyReference.cache
+D:\Users\Admin\Documents\AB-Plugins\ChestStealer\ChestStealer\obj\Debug\ChestStealer.csproj.CoreCompileInputs.cache
+D:\Users\Admin\Documents\AB-Plugins\ChestStealer\ChestStealer\obj\Debug\ChestStealer.csproj.CopyComplete
+D:\Users\Admin\Documents\AB-Plugins\ChestStealer\ChestStealer\obj\Debug\ChestStealer.dll
+D:\Users\Admin\Documents\AB-Plugins\ChestStealer\ChestStealer\obj\Debug\ChestStealer.pdb
